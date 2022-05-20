@@ -10,7 +10,12 @@ Programadora FullStack - Analista de Sistema
  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lecianealves&theme=blue-green)
  
  <!--START_SECTION:waka-->
- <!--END_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
  
  <!--
  ### 3. Contributors Badge
