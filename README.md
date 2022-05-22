@@ -16,13 +16,15 @@ Programadora FullStack - Analista de Sistema
  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lecianealves&theme=white)-->
    </td>
    <td align="center">
- <img width="400px" align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lecianealves&amp;show_icons=true&amp;langs_count=10&amp;layout=compact&amp;theme=buefy&amp;count_private=true" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=lecianealves&amp;show_icons=true&amp;langs_count=10&amp;layout=compact&amp;theme=buefy&amp;count_private=true" style="max-width: 100%;">
+ <img width="400px" align="rigth" border="0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lecianealves&amp;show_icons=true&amp;langs_count=10&amp;layout=compact&amp;theme=buefy&amp;count_private=true" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=lecianealves&amp;show_icons=true&amp;langs_count=10&amp;layout=compact&amp;theme=buefy&amp;count_private=true" style="max-width: 100%;">
    </td>
   </tr>
   </tbody>
  </table>
  
  ### 📊This Week I Spent My Time On:
+ 
+ [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lalves)](https://github.com/anuraghazra/github-readme-stats)
 
  <!--START_SECTION:waka-->
 
