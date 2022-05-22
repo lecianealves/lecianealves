@@ -5,13 +5,22 @@ Programadora FullStack - Analista de Sistema
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/61d6d194-4771-4ca7-95fe-2c1f145a17dc/deploy-status)](https://app.netlify.com/sites/lecianealves/deploys)
 
- 
- ### My Stats
+## My Stats
+<table border="0">
+ <body>
+  <tr>
+   <td align="center">
  <img width="490px" align="left" src="https://github-readme-stats.vercel.app/api?username=lecianealves&amp;theme=buefy&amp;?theme=dark&amp;show_icons=true%count_private=true&amp;include_all_commits=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=lecianealves&amp;theme=buefy&amp;?theme=dark&amp;show_icons=true%count_private=true&amp;include_all_commits=true" style="max-width: 100%;">
  <!--![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=lecianealves&show_icons=true)
  ### 2. Most Used Languages
  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lecianealves&theme=white)-->
+   </td>
+   <td align="center">
  <img width="400px" align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lecianealves&amp;show_icons=true&amp;langs_count=10&amp;layout=compact&amp;theme=buefy&amp;count_private=true" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=lecianealves&amp;show_icons=true&amp;langs_count=10&amp;layout=compact&amp;theme=buefy&amp;count_private=true" style="max-width: 100%;">
+   </td>
+  </tr>
+  </tbody>
+ </table>
 
  <!--START_SECTION:waka-->
 
