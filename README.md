@@ -3,7 +3,7 @@ Programadora FullStack - Analista de Sistema
 - 🔭 Atualmente desenvolvendo a plataforma https://coinsnews.com.br
 - 🌱 Aprendendo Python avançado e ferramentas para desenvolvimento mobile
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/61d6d194-4771-4ca7-95fe-2c1f145a17dc/deploy-status)](https://app.netlify.com/sites/lecianealves/deploys)
+<!--[![Netlify Status](https://api.netlify.com/api/v1/badges/61d6d194-4771-4ca7-95fe-2c1f145a17dc/deploy-status)](https://app.netlify.com/sites/lecianealves/deploys)-->
 
 ## My Stats
 <table border="0">
