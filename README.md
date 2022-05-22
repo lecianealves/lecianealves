@@ -21,6 +21,8 @@ Programadora FullStack - Analista de Sistema
   </tr>
   </tbody>
  </table>
+ 
+ ### 📊This Week I Spent My Time On:
 
  <!--START_SECTION:waka-->
 
@@ -32,7 +34,7 @@ Sublime Text Config   0 secs          ▒░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
- 
+ ## 
  <!--
  ### 3. Contributors Badge
  ![Your Repository's Stats](https://contrib.rocks/image?repo=lecianealves/python_html_css)
