@@ -23,8 +23,6 @@ Programadora FullStack - Analista de Sistema
  </table>
  
  ### 📊This Week I Spent My Time On:
- 
- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lalves)](https://github.com/anuraghazra/github-readme-stats)
 
  <!--START_SECTION:waka-->
 
