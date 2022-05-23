@@ -1,6 +1,6 @@
 ## <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="#" target="_blank"><img data-target="animated-image.replacedImage" alt="Oi.gif" class="AnimatedImagePlayer-animatedImage" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="display: block; opacity: 1;"></a> Hi there! I'm Leciane Alves. Nice to meet you.
 Programadora FullStack - Analista de Sistema
-- 🔭 Atualmente desenvolvendo a plataforma https://coinsnews.com.br
+- 🔭 Atualmente desenvolvendo uma plataforma de notícias <!--https://coinsnews.com.br-->
 - 🌱 Aprendendo Python avançado e ferramentas para desenvolvimento mobile
 
 <!--[![Netlify Status](https://api.netlify.com/api/v1/badges/61d6d194-4771-4ca7-95fe-2c1f145a17dc/deploy-status)](https://app.netlify.com/sites/lecianealves/deploys)-->
