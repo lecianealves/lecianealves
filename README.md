@@ -27,10 +27,11 @@ Programadora FullStack - Analista de Sistema
  <!--START_SECTION:waka-->
 
 ```text
-PHP                   9 mins          ████████████░░░░░░░░░░░░░   48.13 %
-JSON                  7 mins          ████████▓░░░░░░░░░░░░░░░░   34.91 %
-JavaScript            3 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.06 %
-Sublime Text Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+HTML                  51 mins         ████████████████▒░░░░░░░░   65.80 %
+PHP                   11 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.42 %
+JavaScript            8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.44 %
+JSON                  7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 %
+Sublime Text Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
