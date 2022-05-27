@@ -27,10 +27,10 @@ Programadora FullStack
  <!--START_SECTION:waka-->
 
 ```text
-HTML                  2 hrs 22 mins   █████████████▓░░░░░░░░░░░   54.00 %
-CSS                   56 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.49 %
-JavaScript            33 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 %
-Other                 12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+HTML                  2 hrs 22 mins   █████████████▒░░░░░░░░░░░   53.78 %
+CSS                   58 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.86 %
+JavaScript            33 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.58 %
+Other                 12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
 ```
 
 <!--END_SECTION:waka-->
