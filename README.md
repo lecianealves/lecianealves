@@ -27,7 +27,7 @@ Programadora FullStack
  <!--START_SECTION:waka-->
 
 ```text
-Other        3 mins          ██████████████▓░░░░░░░░░░   58.84 %
+Other        3 mins          ███████████████████▓░░░░░   78.40 %
 ```
 
 <!--END_SECTION:waka-->
