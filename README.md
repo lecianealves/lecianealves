@@ -1,4 +1,4 @@
-## <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="#" target="_blank"><img data-target="animated-image.replacedImage" alt="Oi.gif" class="AnimatedImagePlayer-animatedImage" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="1.2em" style="display: block; opacity: 1;"></a> Hi there! I'm Leciane Alves. Nice to meet you.
+## <a data-target="animated-image.replacedLink" href="#" target="_blank"><img data-target="animated-image.replacedImage" alt="Oi.gif" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"  style="display: block; opacity: 1;"></a> Hi there! I'm Leciane Alves. Nice to meet you.
 Programadora FullStack
 - 🔭 Atualmente desenvolvendo uma plataforma de notícias
 - 🌱 Aprendendo Python avançado e ferramentas para desenvolvimento mobile
